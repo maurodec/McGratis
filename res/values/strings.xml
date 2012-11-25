@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">McGrati\'s</string>
+
+    <string name="mcd1">Mcd1</string>
+    <string name="mcd2">Mcd2</string>
+
+    <string name="r_mcd1">Presenta este codigo %1$d en McDonald\'s y lleva un jugo de naranja mediano gratis con tu Menu Desayuno o Merienda. Valido hasta %2$d/%3$d/%4$d. Info www.antel.com.uy</string>
+    <string name="r_mcd2">Presenta este codigo %1$d en McDonald\'s, y lleva un Sundae de regalo con la compra de tu McCombo. Valido hasta %2$d/%3$d/%4$d. Info en www.antel.com.uy</string>
+
+    <string name="sundae">Sundae</string>
+    <string name="juice">Jugo</string>
+    
+    <string name="burp">Buen provecho!</string>
+    <string name="sucess">Los mensajes se generaron correctamente!</string>
+    
+    <string name="ok">OK</string>
+</resources>
